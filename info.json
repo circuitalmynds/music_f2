@@ -1,5 +1,11 @@
 {
     "available_space": true,
-    "files": [],
-    "total_size": 0.0
+    "files": [
+        {
+            "name": "Irene Bordoni - Just An Hour Of Love 1929 Rube Bloom on Piano 'Show of Shows'-FD-qBqhUhJU.mp4",
+            "path": "music_f2/videos/Irene Bordoni - Just An Hour Of Love 1929 Rube Bloom on Piano 'Show of Shows'-FD-qBqhUhJU.mp4",
+            "size": 4.356811776000001
+        }
+    ],
+    "total_size": 4.356811776000001
 }
